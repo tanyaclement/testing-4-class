@@ -35,11 +35,11 @@
   "created_by": "tanyaclement",
   "title": "Event",
   "slug": "event",
-  "updated_at": "2025-04-02T22:17:07.920Z",
+  "updated_at": "2025-04-02T22:17:50.784Z",
   "updated_by": "tanyaclement",
   "parent": "00ca065e-88c9-417c-8609-9b6cb46a52be",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "2372d918-52cc-4d42-be59-78016e67f0c9"
   }
